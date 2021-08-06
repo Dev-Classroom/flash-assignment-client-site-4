@@ -19,7 +19,7 @@ The last step we have to complete before deploying our client's project online i
 ## Rubric
 | Below Standard  | Standard                                                                                        | Exceeds Standard |
 | -------------   | -------------                                                                                   | -------------    |
-|                 | `transform` and pseud-classes are used to animate different states within the site              |                  |
+|                 | `transform` and pseudo-classes are used to animate different states within the site              |                  |
 
 
 
